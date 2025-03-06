@@ -11,8 +11,8 @@
 - **En apprentissage** : vue.js , Angular, Django , Flutter
 
 ## Mes projets
-- [Menu HTML/CSS](https://github.com/chrisvados/menu_HtML_CSS) : Un projet de menu responsive.
-- [Calculatrice en JavaScript](https://github.com/chrisvados/calculatrice-js) : Une calculatrice simple en JS.
+- [menu](https://github.com/chrisvados/menu) : Un simple menu en html css.
+- [Dashboard_bootstrap]((https://github.com/chrisvados/Dashboard_bootstrap.git)) : Un dashbord en html css bootstrap.
 
 ## Contact
 - 📧 Email : kuetchejuan546@email.com
