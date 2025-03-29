@@ -36,6 +36,8 @@
 ### Projets récents
 - **[Menu HTML/CSS](https://github.com/chrisvados/menu)** : Un menu simple et responsive conçu avec HTML et CSS.
 - **[Dashboard Bootstrap](https://github.com/chrisvados/Dashboard_bootstrap)** : Un tableau de bord moderne créé avec HTML, CSS et Bootstrap.
+- **[laravel](https://github.com/chrisvados/laravel)** : crud en laravel 11 avec la gestion des photos.
+- 
 
 ### Projets à venir
 - **Application de gestion de tâches** : Une application web en Vue.js pour gérer les tâches quotidiennes.
